@@ -4,7 +4,7 @@
 
 A Python simulation for finding optimal metro routes using:
 - **BFS Algorithm** for routes with **least transfers** 🔄
-- **A* Algorithm** for **fastest routes** ⏱️
+- **A*** **Algorithm** for **fastest routes** ⏱️
 
 Developed for the Global AI Hub x Akbank - Python & AI Bootcamp.
 
